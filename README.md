@@ -1,2 +1,2 @@
-# job-analysis
-job analysis
+# Job Trend Analyzer (advanced)
+Job Trend Analyzer
